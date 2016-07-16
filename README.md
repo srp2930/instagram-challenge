@@ -21,3 +21,33 @@ As usual please start by forking this repo. After cloning your fork and cd'ing i
 Your challenge is to build Instagram using Rails. You'll need **users** who can post **pictures**, write **comments** on pictures and **like** a picture. Style it like Instagram's website (or more awesome).
 
 Bonus if you can add filters!
+
+````
+As a user
+so that I can show the world my pictures
+i want to upload a picture to my instagram
+````
+
+````
+As a user
+So that i can show approval for other's photos
+I want to like a photo on any user's account
+````
+
+````
+As a user
+so that I can have a record of all my photos
+I want to have an account on instagram (sign-up)
+````
+
+````
+As a user
+so that I can express my approval verbally
+i wish to leave a comment on photos
+````
+
+````
+As a user
+So that I can achieve all the above
+I want to sign into instagram
+````
